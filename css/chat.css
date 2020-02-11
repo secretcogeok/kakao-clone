@@ -3,7 +3,7 @@
     z-index: 2;
     top: 0px;
     width: 100%;
-    padding: 10px 0px;
+    padding: 20px 0px;
     background-color: white;
 }
 
@@ -225,3 +225,5 @@
 .sent-message {
     animation: sentAnimation .5s ease-out forwards;
 }
+
+
